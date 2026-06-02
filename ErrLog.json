@@ -1,0 +1,73 @@
+[
+    {
+        "nombre": "a",
+        "posicion": "Ing. Software",
+        "errores": [
+            "Param 1: 30",
+            "Param 2: 6",
+            ">5 Conflictos de Merge",
+            "Interfaz confusa"
+        ]
+    },
+    {
+        "nombre": "b",
+        "posicion": "Ing. Software",
+        "errores": [
+            "Param 1: 45",
+            "Param 2: 44",
+            ">5 Conflictos de Merge"
+        ]
+    },
+    {
+        "nombre": "Pepep",
+        "posicion": "Ing. Software",
+        "errores": [
+            "Falta_de_Optimizacion_de_Consultas_SQL",
+            "Parche_de_seguridad_requerido",
+            "Inconsistencia_de_Entorno_Docker"
+        ]
+    },
+    {
+        "nombre": "anna",
+        "posicion": "Ing. Software",
+        "errores": [
+            "Definicion_de_Requerimientos_Pobre",
+            "Mala_Segmentacion_de_Modulos",
+            "Scripts_de_CI_CD_Ineficientes",
+            "Falta_de_Optimizacion_de_Consultas_SQL",
+            "Riesgo_de_Mantenibilidad",
+            "Bloqueo_Operativo_o_Task_Overload",
+            "Parche_de_seguridad_requerido",
+            "Etapa_UX_Diseño_Omitida",
+            "Falta_de_Pruebas_Unitarias",
+            "Inconsistencia_de_Entorno_Docker"
+        ]
+    },
+    {
+        "nombre": "Rosa",
+        "posicion": "Administracion",
+        "errores": [
+            "Definicion_de_Requerimientos_Pobre",
+            "Mala_Segmentacion_de_Modulos",
+            "Scripts_de_CI_CD_Ineficientes",
+            "Falta_de_Optimizacion_de_Consultas_SQL",
+            "Riesgo_de_Mantenibilidad",
+            "Bloqueo_Operativo_o_Task_Overload",
+            "Etapa_UX_Diseño_Omitida",
+            "Falta_de_Pruebas_Unitarias"
+        ]
+    },
+    {
+        "nombre": "Juan",
+        "posicion": "Administracion",
+        "errores": [
+            "Mala_Segmentacion_de_Modulos",
+            "Scripts_de_CI_CD_Ineficientes",
+            "Falta_de_Optimizacion_de_Consultas_SQL",
+            "Riesgo_de_Mantenibilidad",
+            "Bloqueo_Operativo_o_Task_Overload",
+            "Etapa_UX_Diseño_Omitida",
+            "Falta_de_Pruebas_Unitarias"
+        ]
+    }
+]
