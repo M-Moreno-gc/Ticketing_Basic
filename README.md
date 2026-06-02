@@ -1,3 +1,29 @@
+## SPANISH: Things to consider/Cosas a considerar
+- Este codigo esta un 90% en español, pero los codigos al ser un lenguage universal deberían ser faciles de entender.
+- Las migraciones deben de hacerse con el codigo siguiete:
+  
+  ``` php artisan migrate ```
+- Dependencies/Dependencias: PHP, LARAVEL, Composer, bootstrap
+- DATABASE/Base de datos: Xampp/MyPhPAdmin.
+- Credenciales de admin creadas con las migraciones, accesso:
+
+     ``` email: admin@admin ```
+      
+     ``` password: 123```
+  
+## ENGLISH: Things to consider/Cosas a considerar
+- This project is 90% in spanish, code is universal so it must be easy to understan what does what.
+- Migrations must be made with the following line:
+  
+  ``` php artisan migrate ```
+- Dependencies: PHP, LARAVEL, Composer, bootstrap
+- DATABASE: Xampp/MyPhPAdmin.
+- Admin credentials are created with migrations, access:
+
+     ``` email: admin@admin ```
+      
+     ``` password: 123```
+  
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
